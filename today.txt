@@ -1,1 +1,1 @@
-I am in branch 2
+i am in branch master and move to branch2
